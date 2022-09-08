@@ -15,7 +15,8 @@
 - [Online Bitwise Calculator](https://www.miniwebtool.com/bitwise-calculator/)
 ### Base converter
 - [ASCII to Hex](https://www.asciitohex.com/) - Super nice, has most encoding and bases in it
-
+# General
+- [RSA Math Explainer <word doc)](https://github.com/valinkrai/ctf-resources/blob/main/Cryptography_-_Decoding_6_Answer%20(RSA%20Math%20Tutorial).docx?raw=true)
 
 
 ## Binary Exploitation
